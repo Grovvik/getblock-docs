@@ -8,7 +8,7 @@ description: >-
 
 #### Parameters
 
-`jsonprc` - string
+`jsonrpc` - string
 
 jsonrpc version
 
